@@ -1,0 +1,3604 @@
+sentence :1
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :1
+Token:Contemporary
+Predict_Tag:O
+
+sentence :1
+Token:Art
+Predict_Tag:O
+
+sentence :1
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :2
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :2
+Token:Level
+Predict_Tag:O
+
+sentence :2
+Token:1
+Predict_Tag:O
+
+sentence :2
+Token:65
+Predict_Tag:O
+
+sentence :2
+Token:Murray
+Predict_Tag:B-per
+
+sentence :2
+Token:Street
+Predict_Tag:O
+
+sentence :2
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :3
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :3
+Token:+
+Predict_Tag:O
+
+sentence :3
+Token:61
+Predict_Tag:O
+
+sentence :3
+Token:(
+Predict_Tag:O
+
+sentence :3
+Token:0
+Predict_Tag:O
+
+sentence :3
+Token:)
+Predict_Tag:O
+
+sentence :3
+Token:3
+Predict_Tag:O
+
+sentence :3
+Token:36
+Predict_Tag:O
+
+sentence :3
+Token:##23
+Predict_Tag:X
+
+sentence :3
+Token:##16
+Predict_Tag:X
+
+sentence :3
+Token:##51
+Predict_Tag:X
+
+sentence :3
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :4
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :4
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :4
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :4
+Token:700
+Predict_Tag:I-org
+
+sentence :4
+Token:##0
+Predict_Tag:X
+
+sentence :4
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :5
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :5
+Token:info
+Predict_Tag:O
+
+sentence :5
+Token:@
+Predict_Tag:X
+
+sentence :5
+Token:bet
+Predict_Tag:X
+
+sentence :5
+Token:##t
+Predict_Tag:X
+
+sentence :5
+Token:##gall
+Predict_Tag:X
+
+sentence :5
+Token:##ery
+Predict_Tag:X
+
+sentence :5
+Token:.
+Predict_Tag:X
+
+sentence :5
+Token:com
+Predict_Tag:X
+
+sentence :5
+Token:.
+Predict_Tag:X
+
+sentence :5
+Token:al
+Predict_Tag:X
+
+sentence :5
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :6
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :6
+Token:Australia
+Predict_Tag:B-geo
+
+sentence :6
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :7
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :7
+Token:bet
+Predict_Tag:O
+
+sentence :7
+Token:##t
+Predict_Tag:X
+
+sentence :7
+Token:##gall
+Predict_Tag:X
+
+sentence :7
+Token:##ery
+Predict_Tag:X
+
+sentence :7
+Token:.
+Predict_Tag:X
+
+sentence :7
+Token:com
+Predict_Tag:X
+
+sentence :7
+Token:.
+Predict_Tag:X
+
+sentence :7
+Token:au
+Predict_Tag:X
+
+sentence :7
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :8
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :8
+Token:p
+Predict_Tag:O
+
+sentence :8
+Token:##el
+Predict_Tag:X
+
+sentence :8
+Token:##t
+Predict_Tag:X
+
+sentence :8
+Token:##gall
+Predict_Tag:X
+
+sentence :8
+Token:##ery
+Predict_Tag:X
+
+sentence :8
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :9
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :9
+Token:Robert
+Predict_Tag:B-per
+
+sentence :9
+Token:J
+Predict_Tag:I-per
+
+sentence :9
+Token:'
+Predict_Tag:X
+
+sentence :9
+Token:Connor
+Predict_Tag:X
+
+sentence :9
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :10
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :10
+Token:Born
+Predict_Tag:O
+
+sentence :10
+Token:Melbourne
+Predict_Tag:B-geo
+
+sentence :10
+Token:,
+Predict_Tag:O
+
+sentence :10
+Token:lives
+Predict_Tag:O
+
+sentence :10
+Token:and
+Predict_Tag:O
+
+sentence :10
+Token:works
+Predict_Tag:O
+
+sentence :10
+Token:in
+Predict_Tag:O
+
+sentence :10
+Token:Tasmania
+Predict_Tag:B-geo
+
+sentence :10
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :11
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :11
+Token:Education
+Predict_Tag:O
+
+sentence :11
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :12
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :12
+Token:2003
+Predict_Tag:B-tim
+
+sentence :12
+Token:2007
+Predict_Tag:I-tim
+
+sentence :12
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :13
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :13
+Token:Bachelor
+Predict_Tag:O
+
+sentence :13
+Token:of
+Predict_Tag:O
+
+sentence :13
+Token:Fine
+Predict_Tag:I-org
+
+sentence :13
+Token:Arts
+Predict_Tag:I-org
+
+sentence :13
+Token:(
+Predict_Tag:O
+
+sentence :13
+Token:ho
+Predict_Tag:O
+
+sentence :13
+Token:##ns
+Predict_Tag:X
+
+sentence :13
+Token:)
+Predict_Tag:O
+
+sentence :13
+Token:-
+Predict_Tag:O
+
+sentence :13
+Token:University
+Predict_Tag:B-org
+
+sentence :13
+Token:of
+Predict_Tag:I-org
+
+sentence :13
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :13
+Token:,
+Predict_Tag:O
+
+sentence :13
+Token:School
+Predict_Tag:B-org
+
+sentence :13
+Token:of
+Predict_Tag:I-org
+
+sentence :13
+Token:Art
+Predict_Tag:I-org
+
+sentence :13
+Token:,
+Predict_Tag:I-org
+
+sentence :13
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :13
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :14
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :14
+Token:Solo
+Predict_Tag:O
+
+sentence :14
+Token:Exhibition
+Predict_Tag:O
+
+sentence :14
+Token:##s
+Predict_Tag:X
+
+sentence :14
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :15
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :15
+Token:2019
+Predict_Tag:B-tim
+
+sentence :15
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :16
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :16
+Token:G
+Predict_Tag:B-geo
+
+sentence :16
+Token:##uil
+Predict_Tag:X
+
+sentence :16
+Token:##lot
+Predict_Tag:X
+
+sentence :16
+Token:##ine
+Predict_Tag:X
+
+sentence :16
+Token:!
+Predict_Tag:I-art
+
+sentence :16
+Token:,
+Predict_Tag:O
+
+sentence :16
+Token:Bet
+Predict_Tag:B-per
+
+sentence :16
+Token:##t
+Predict_Tag:X
+
+sentence :16
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :16
+Token:,
+Predict_Tag:O
+
+sentence :16
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :16
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :17
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :17
+Token:2018
+Predict_Tag:B-tim
+
+sentence :17
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :18
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :18
+Token:Black
+Predict_Tag:B-geo
+
+sentence :18
+Token:,
+Predict_Tag:O
+
+sentence :18
+Token:Bet
+Predict_Tag:B-per
+
+sentence :18
+Token:##t
+Predict_Tag:X
+
+sentence :18
+Token:Gallery
+Predict_Tag:I-per
+
+sentence :18
+Token:,
+Predict_Tag:O
+
+sentence :18
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :18
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :19
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :19
+Token:2015
+Predict_Tag:B-tim
+
+sentence :19
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :20
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :20
+Token:St
+Predict_Tag:O
+
+sentence :20
+Token:##eal
+Predict_Tag:X
+
+sentence :20
+Token:##s
+Predict_Tag:X
+
+sentence :20
+Token:,
+Predict_Tag:O
+
+sentence :20
+Token:Bet
+Predict_Tag:B-per
+
+sentence :20
+Token:##t
+Predict_Tag:X
+
+sentence :20
+Token:Gallery
+Predict_Tag:I-per
+
+sentence :20
+Token:,
+Predict_Tag:O
+
+sentence :20
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :20
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :21
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :21
+Token:2012
+Predict_Tag:B-tim
+
+sentence :21
+Token:/
+Predict_Tag:I-tim
+
+sentence :21
+Token:13
+Predict_Tag:I-tim
+
+sentence :21
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :22
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :22
+Token:Rain
+Predict_Tag:B-org
+
+sentence :22
+Token:##che
+Predict_Tag:X
+
+sentence :22
+Token:##ck
+Predict_Tag:X
+
+sentence :22
+Token:Lounge
+Predict_Tag:O
+
+sentence :22
+Token:,
+Predict_Tag:O
+
+sentence :22
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :22
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :23
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :23
+Token:2012
+Predict_Tag:B-tim
+
+sentence :23
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :24
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :24
+Token:The
+Predict_Tag:O
+
+sentence :24
+Token:P
+Predict_Tag:B-art
+
+sentence :24
+Token:##la
+Predict_Tag:X
+
+sentence :24
+Token:##que
+Predict_Tag:X
+
+sentence :24
+Token:never
+Predict_Tag:O
+
+sentence :24
+Token:Die
+Predict_Tag:O
+
+sentence :24
+Token:##s
+Predict_Tag:X
+
+sentence :24
+Token:or
+Predict_Tag:O
+
+sentence :24
+Token:Di
+Predict_Tag:O
+
+sentence :24
+Token:##sa
+Predict_Tag:X
+
+sentence :24
+Token:##ppe
+Predict_Tag:X
+
+sentence :24
+Token:##ars
+Predict_Tag:X
+
+sentence :24
+Token:for
+Predict_Tag:O
+
+sentence :24
+Token:Good
+Predict_Tag:O
+
+sentence :24
+Token:,
+Predict_Tag:O
+
+sentence :24
+Token:Bet
+Predict_Tag:B-org
+
+sentence :24
+Token:##t
+Predict_Tag:X
+
+sentence :24
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :24
+Token:,
+Predict_Tag:O
+
+sentence :24
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :24
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :25
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :25
+Token:2011
+Predict_Tag:B-tim
+
+sentence :25
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :26
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :26
+Token:Core
+Predict_Tag:O
+
+sentence :26
+Token:,
+Predict_Tag:O
+
+sentence :26
+Token:Bet
+Predict_Tag:B-per
+
+sentence :26
+Token:##t
+Predict_Tag:X
+
+sentence :26
+Token:Gallery
+Predict_Tag:I-per
+
+sentence :26
+Token:,
+Predict_Tag:O
+
+sentence :26
+Token:Ho
+Predict_Tag:B-geo
+
+sentence :26
+Token:##ab
+Predict_Tag:X
+
+sentence :26
+Token:##rt
+Predict_Tag:X
+
+sentence :26
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :27
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :27
+Token:2009
+Predict_Tag:B-tim
+
+sentence :27
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :28
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :28
+Token:De
+Predict_Tag:B-org
+
+sentence :28
+Token:##us
+Predict_Tag:X
+
+sentence :28
+Token:Ex
+Predict_Tag:I-org
+
+sentence :28
+Token:Mac
+Predict_Tag:I-org
+
+sentence :28
+Token:##hin
+Predict_Tag:X
+
+sentence :28
+Token:##a
+Predict_Tag:X
+
+sentence :28
+Token:,
+Predict_Tag:O
+
+sentence :28
+Token:bet
+Predict_Tag:O
+
+sentence :28
+Token:##t
+Predict_Tag:X
+
+sentence :28
+Token:Gallery
+Predict_Tag:B-org
+
+sentence :28
+Token:,
+Predict_Tag:O
+
+sentence :28
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :28
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :29
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :29
+Token:2008
+Predict_Tag:B-tim
+
+sentence :29
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :30
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :30
+Token:The
+Predict_Tag:O
+
+sentence :30
+Token:Great
+Predict_Tag:B-org
+
+sentence :30
+Token:White
+Predict_Tag:I-org
+
+sentence :30
+Token:Ho
+Predict_Tag:I-org
+
+sentence :30
+Token:##ax
+Predict_Tag:X
+
+sentence :30
+Token:,
+Predict_Tag:O
+
+sentence :30
+Token:Moor
+Predict_Tag:B-org
+
+sentence :30
+Token:##illa
+Predict_Tag:X
+
+sentence :30
+Token:Scholarship
+Predict_Tag:I-org
+
+sentence :30
+Token:Exhibition
+Predict_Tag:I-org
+
+sentence :30
+Token:,
+Predict_Tag:O
+
+sentence :30
+Token:Sal
+Predict_Tag:B-org
+
+sentence :30
+Token:##aman
+Predict_Tag:X
+
+sentence :30
+Token:##ca
+Predict_Tag:X
+
+sentence :30
+Token:Arts
+Predict_Tag:I-org
+
+sentence :30
+Token:Centre
+Predict_Tag:I-org
+
+sentence :30
+Token:,
+Predict_Tag:O
+
+sentence :30
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :31
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :31
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :31
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :32
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :32
+Token:2007
+Predict_Tag:B-tim
+
+sentence :32
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :33
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :33
+Token:Para
+Predict_Tag:B-geo
+
+sentence :33
+Token:##dis
+Predict_Tag:X
+
+sentence :33
+Token:##o
+Predict_Tag:X
+
+sentence :33
+Token:,
+Predict_Tag:O
+
+sentence :33
+Token:Bet
+Predict_Tag:B-per
+
+sentence :33
+Token:##t
+Predict_Tag:X
+
+sentence :33
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :33
+Token:@
+Predict_Tag:I-org
+
+sentence :33
+Token:Rain
+Predict_Tag:I-org
+
+sentence :33
+Token:##che
+Predict_Tag:X
+
+sentence :33
+Token:##ck
+Predict_Tag:X
+
+sentence :33
+Token:Lounge
+Predict_Tag:I-org
+
+sentence :33
+Token:,
+Predict_Tag:O
+
+sentence :33
+Token:North
+Predict_Tag:B-geo
+
+sentence :33
+Token:Hobart
+Predict_Tag:I-geo
+
+sentence :33
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :34
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :34
+Token:A
+Predict_Tag:O
+
+sentence :34
+Token:tail
+Predict_Tag:O
+
+sentence :34
+Token:told
+Predict_Tag:O
+
+sentence :34
+Token:by
+Predict_Tag:O
+
+sentence :34
+Token:an
+Predict_Tag:O
+
+sentence :34
+Token:l
+Predict_Tag:O
+
+sentence :34
+Token:##dio
+Predict_Tag:X
+
+sentence :34
+Token:##t
+Predict_Tag:X
+
+sentence :34
+Token:Little
+Predict_Tag:B-org
+
+sentence :34
+Token:Space
+Predict_Tag:I-org
+
+sentence :34
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :34
+Token:,
+Predict_Tag:O
+
+sentence :34
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :34
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :35
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :35
+Token:2006
+Predict_Tag:B-tim
+
+sentence :35
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :36
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :36
+Token:/
+Predict_Tag:O
+
+sentence :36
+Token:care
+Predict_Tag:O
+
+sentence :36
+Token:because
+Predict_Tag:O
+
+sentence :36
+Token:you
+Predict_Tag:O
+
+sentence :36
+Token:do
+Predict_Tag:O
+
+sentence :36
+Token:,
+Predict_Tag:O
+
+sentence :36
+Token:Red
+Predict_Tag:B-org
+
+sentence :36
+Token:Wall
+Predict_Tag:I-org
+
+sentence :36
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :36
+Token:,
+Predict_Tag:O
+
+sentence :36
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :36
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :37
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :37
+Token:R
+Predict_Tag:B-org
+
+sentence :37
+Token:##uin
+Predict_Tag:X
+
+sentence :37
+Token:##A
+Predict_Tag:X
+
+sentence :37
+Token:##rt
+Predict_Tag:X
+
+sentence :37
+Token:,
+Predict_Tag:O
+
+sentence :37
+Token:En
+Predict_Tag:B-org
+
+sentence :37
+Token:##tre
+Predict_Tag:X
+
+sentence :37
+Token:##pot
+Predict_Tag:X
+
+sentence :37
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :37
+Token:,
+Predict_Tag:O
+
+sentence :37
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :37
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :38
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :38
+Token:Selected
+Predict_Tag:O
+
+sentence :38
+Token:Group
+Predict_Tag:B-org
+
+sentence :38
+Token:Exhibition
+Predict_Tag:O
+
+sentence :38
+Token:##s
+Predict_Tag:X
+
+sentence :38
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :39
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :39
+Token:2017
+Predict_Tag:B-tim
+
+sentence :39
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :40
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :40
+Token:Shot
+Predict_Tag:O
+
+sentence :40
+Token:##gun
+Predict_Tag:X
+
+sentence :40
+Token:6
+Predict_Tag:O
+
+sentence :40
+Token::
+Predict_Tag:O
+
+sentence :40
+Token:Ra
+Predict_Tag:O
+
+sentence :40
+Token:##g
+Predict_Tag:X
+
+sentence :40
+Token:or
+Predict_Tag:O
+
+sentence :40
+Token:R
+Predict_Tag:B-org
+
+sentence :40
+Token:##ip
+Predict_Tag:X
+
+sentence :40
+Token:Contemporary
+Predict_Tag:I-org
+
+sentence :40
+Token:Art
+Predict_Tag:I-org
+
+sentence :40
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :40
+Token:,
+Predict_Tag:O
+
+sentence :40
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :40
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :41
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :41
+Token:2015
+Predict_Tag:B-tim
+
+sentence :41
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :42
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :42
+Token:W
+Predict_Tag:O
+
+sentence :42
+Token:##orm
+Predict_Tag:X
+
+sentence :42
+Token:##hole
+Predict_Tag:X
+
+sentence :42
+Token:-
+Predict_Tag:X
+
+sentence :42
+Token:Five
+Predict_Tag:X
+
+sentence :42
+Token:Artists
+Predict_Tag:O
+
+sentence :42
+Token:,
+Predict_Tag:O
+
+sentence :42
+Token:Five
+Predict_Tag:B-org
+
+sentence :42
+Token:Overseas
+Predict_Tag:O
+
+sentence :42
+Token:Re
+Predict_Tag:I-org
+
+sentence :42
+Token:##side
+Predict_Tag:X
+
+sentence :42
+Token:##ncies
+Predict_Tag:X
+
+sentence :42
+Token:,
+Predict_Tag:O
+
+sentence :42
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :42
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :43
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :43
+Token:2012
+Predict_Tag:B-tim
+
+sentence :43
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :44
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :44
+Token:In
+Predict_Tag:B-org
+
+sentence :44
+Token:##iq
+Predict_Tag:X
+
+sentence :44
+Token:##uity
+Predict_Tag:X
+
+sentence :44
+Token:Carnegie
+Predict_Tag:I-org
+
+sentence :44
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :44
+Token:,
+Predict_Tag:O
+
+sentence :44
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :44
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :45
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :45
+Token:2011
+Predict_Tag:B-tim
+
+sentence :45
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :46
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :46
+Token:When
+Predict_Tag:O
+
+sentence :46
+Token:West
+Predict_Tag:B-geo
+
+sentence :46
+Token:meets
+Predict_Tag:O
+
+sentence :46
+Token:East
+Predict_Tag:B-geo
+
+sentence :46
+Token:,
+Predict_Tag:O
+
+sentence :46
+Token:He
+Predict_Tag:B-org
+
+sentence :46
+Token:Shu
+Predict_Tag:I-org
+
+sentence :46
+Token:##n
+Predict_Tag:X
+
+sentence :46
+Token:International
+Predict_Tag:I-org
+
+sentence :46
+Token:Arts
+Predict_Tag:I-org
+
+sentence :46
+Token:Village
+Predict_Tag:I-org
+
+sentence :46
+Token:,
+Predict_Tag:O
+
+sentence :46
+Token:Shan
+Predict_Tag:B-geo
+
+sentence :46
+Token:##xi
+Predict_Tag:X
+
+sentence :46
+Token:,
+Predict_Tag:O
+
+sentence :46
+Token:China
+Predict_Tag:B-geo
+
+sentence :46
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :47
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :47
+Token:Best
+Predict_Tag:O
+
+sentence :47
+Token:how
+Predict_Tag:O
+
+sentence :47
+Token:,
+Predict_Tag:O
+
+sentence :47
+Token:Fe
+Predict_Tag:B-org
+
+sentence :47
+Token:##lts
+Predict_Tag:X
+
+sentence :47
+Token:##pace
+Predict_Tag:X
+
+sentence :47
+Token:Adelaide
+Predict_Tag:I-geo
+
+sentence :47
+Token:,
+Predict_Tag:O
+
+sentence :47
+Token:SA
+Predict_Tag:B-geo
+
+sentence :47
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :48
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :48
+Token:Works
+Predict_Tag:O
+
+sentence :48
+Token:on
+Predict_Tag:O
+
+sentence :48
+Token:Paper
+Predict_Tag:O
+
+sentence :48
+Token:,
+Predict_Tag:O
+
+sentence :48
+Token:Saw
+Predict_Tag:B-org
+
+sentence :48
+Token:##tooth
+Predict_Tag:X
+
+sentence :48
+Token:AR
+Predict_Tag:I-org
+
+sentence :48
+Token:##I
+Predict_Tag:X
+
+sentence :48
+Token:,
+Predict_Tag:O
+
+sentence :48
+Token:Lau
+Predict_Tag:B-org
+
+sentence :48
+Token:##nces
+Predict_Tag:X
+
+sentence :48
+Token:##ton
+Predict_Tag:X
+
+sentence :48
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :49
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :49
+Token:/
+Predict_Tag:O
+
+sentence :49
+Token:am
+Predict_Tag:X
+
+sentence :49
+Token:Satan
+Predict_Tag:B-geo
+
+sentence :49
+Token:,
+Predict_Tag:O
+
+sentence :49
+Token:Hell
+Predict_Tag:B-org
+
+sentence :49
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :49
+Token:,
+Predict_Tag:O
+
+sentence :49
+Token:Richmond
+Predict_Tag:B-geo
+
+sentence :49
+Token:,
+Predict_Tag:O
+
+sentence :49
+Token:Vic
+Predict_Tag:B-geo
+
+sentence :49
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :50
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :50
+Token:Kill
+Predict_Tag:O
+
+sentence :50
+Token:!
+Predict_Tag:O
+
+sentence :50
+Token:Con
+Predict_Tag:B-org
+
+sentence :50
+Token:##quer
+Predict_Tag:X
+
+sentence :50
+Token:!
+Predict_Tag:O
+
+sentence :50
+Token:Kill
+Predict_Tag:O
+
+sentence :50
+Token:!
+Predict_Tag:O
+
+sentence :50
+Token:Milk
+Predict_Tag:O
+
+sentence :50
+Token:of
+Predict_Tag:O
+
+sentence :50
+Token:Ma
+Predict_Tag:B-geo
+
+sentence :50
+Token:##gne
+Predict_Tag:X
+
+sentence :50
+Token:##sia
+Predict_Tag:X
+
+sentence :50
+Token:,
+Predict_Tag:O
+
+sentence :50
+Token:Brunswick
+Predict_Tag:B-geo
+
+sentence :50
+Token:,
+Predict_Tag:O
+
+sentence :50
+Token:V
+Predict_Tag:B-geo
+
+sentence :50
+Token:##i
+Predict_Tag:X
+
+sentence :50
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :51
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :51
+Token:If
+Predict_Tag:O
+
+sentence :51
+Token:I
+Predict_Tag:O
+
+sentence :51
+Token:'
+Predict_Tag:O
+
+sentence :51
+Token:d
+Predict_Tag:X
+
+sentence :51
+Token:had
+Predict_Tag:O
+
+sentence :51
+Token:more
+Predict_Tag:O
+
+sentence :51
+Token:bullets
+Predict_Tag:O
+
+sentence :51
+Token:I
+Predict_Tag:O
+
+sentence :51
+Token:'
+Predict_Tag:O
+
+sentence :51
+Token:d
+Predict_Tag:X
+
+sentence :51
+Token:taken
+Predict_Tag:O
+
+sentence :51
+Token:War
+Predict_Tag:B-geo
+
+sentence :51
+Token:##hole
+Predict_Tag:X
+
+sentence :51
+Token:with
+Predict_Tag:O
+
+sentence :51
+Token:me
+Predict_Tag:O
+
+sentence :51
+Token:,
+Predict_Tag:O
+
+sentence :51
+Token:Rat
+Predict_Tag:B-org
+
+sentence :51
+Token:Palace
+Predict_Tag:I-org
+
+sentence :51
+Token:,
+Predict_Tag:I-org
+
+sentence :51
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :51
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :52
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :52
+Token:Bet
+Predict_Tag:B-per
+
+sentence :52
+Token:##t
+Predict_Tag:X
+
+sentence :52
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :52
+Token:Pre
+Predict_Tag:I-org
+
+sentence :52
+Token:##view
+Predict_Tag:X
+
+sentence :52
+Token:Show
+Predict_Tag:O
+
+sentence :52
+Token:,
+Predict_Tag:O
+
+sentence :52
+Token:Bet
+Predict_Tag:B-per
+
+sentence :52
+Token:##t
+Predict_Tag:X
+
+sentence :52
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :52
+Token:,
+Predict_Tag:O
+
+sentence :52
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :52
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :53
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :53
+Token:2010
+Predict_Tag:B-tim
+
+sentence :53
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :54
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :54
+Token:48
+Predict_Tag:O
+
+sentence :54
+Token:Fu
+Predict_Tag:O
+
+sentence :54
+Token:##gues
+Predict_Tag:X
+
+sentence :54
+Token:for
+Predict_Tag:O
+
+sentence :54
+Token:Frank
+Predict_Tag:B-per
+
+sentence :54
+Token:[
+Predict_Tag:O
+
+sentence :54
+Token:M
+Predict_Tag:B-org
+
+sentence :54
+Token:##ON
+Predict_Tag:X
+
+sentence :54
+Token:##A
+Predict_Tag:X
+
+sentence :54
+Token:F
+Predict_Tag:I-org
+
+sentence :54
+Token:##OM
+Predict_Tag:X
+
+sentence :54
+Token:##A
+Predict_Tag:X
+
+sentence :54
+Token:]
+Predict_Tag:O
+
+sentence :54
+Token:,
+Predict_Tag:O
+
+sentence :54
+Token:Tasmanian
+Predict_Tag:B-org
+
+sentence :54
+Token:Museum
+Predict_Tag:B-org
+
+sentence :54
+Token:and
+Predict_Tag:I-org
+
+sentence :54
+Token:Art
+Predict_Tag:I-org
+
+sentence :54
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :54
+Token:,
+Predict_Tag:I-org
+
+sentence :54
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :54
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :55
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :55
+Token:S
+Predict_Tag:B-org
+
+sentence :55
+Token:##pra
+Predict_Tag:X
+
+sentence :55
+Token:##y
+Predict_Tag:X
+
+sentence :55
+Token:/
+Predict_Tag:I-org
+
+sentence :55
+Token:Dr
+Predict_Tag:I-org
+
+sentence :55
+Token:##ip
+Predict_Tag:X
+
+sentence :55
+Token:/
+Predict_Tag:I-org
+
+sentence :55
+Token:St
+Predict_Tag:I-org
+
+sentence :55
+Token:##roke
+Predict_Tag:X
+
+sentence :55
+Token:,
+Predict_Tag:O
+
+sentence :55
+Token:Po
+Predict_Tag:B-org
+
+sentence :55
+Token:##ime
+Predict_Tag:X
+
+sentence :55
+Token:##na
+Predict_Tag:X
+
+sentence :55
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :55
+Token:,
+Predict_Tag:O
+
+sentence :55
+Token:Lau
+Predict_Tag:B-org
+
+sentence :55
+Token:##nces
+Predict_Tag:X
+
+sentence :55
+Token:##ton
+Predict_Tag:X
+
+sentence :55
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :56
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :56
+Token:Pro
+Predict_Tag:O
+
+sentence :56
+Token:##so
+Predict_Tag:X
+
+sentence :56
+Token:##po
+Predict_Tag:X
+
+sentence :56
+Token:##graphy
+Predict_Tag:X
+
+sentence :56
+Token:,
+Predict_Tag:O
+
+sentence :56
+Token:Lau
+Predict_Tag:B-org
+
+sentence :56
+Token:##nces
+Predict_Tag:X
+
+sentence :56
+Token:##ton
+Predict_Tag:X
+
+sentence :56
+Token:Academy
+Predict_Tag:I-org
+
+sentence :56
+Token:of
+Predict_Tag:I-org
+
+sentence :56
+Token:Visual
+Predict_Tag:I-org
+
+sentence :56
+Token:Arts
+Predict_Tag:I-org
+
+sentence :56
+Token:,
+Predict_Tag:O
+
+sentence :56
+Token:University
+Predict_Tag:B-org
+
+sentence :56
+Token:of
+Predict_Tag:I-org
+
+sentence :56
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :56
+Token:,
+Predict_Tag:O
+
+sentence :56
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :57
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :57
+Token:Lau
+Predict_Tag:B-per
+
+sentence :57
+Token:##nces
+Predict_Tag:X
+
+sentence :57
+Token:##ton
+Predict_Tag:X
+
+sentence :57
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :58
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :58
+Token:M
+Predict_Tag:B-per
+
+sentence :58
+Token:Bet
+Predict_Tag:I-per
+
+sentence :58
+Token:##t
+Predict_Tag:X
+
+sentence :58
+Token:P
+Predict_Tag:I-per
+
+sentence :58
+Token:##ty
+Predict_Tag:X
+
+sentence :58
+Token:Ltd
+Predict_Tag:I-org
+
+sentence :58
+Token:Ltd
+Predict_Tag:I-org
+
+sentence :58
+Token:A
+Predict_Tag:I-org
+
+sentence :58
+Token:.
+Predict_Tag:X
+
+sentence :58
+Token:C
+Predict_Tag:X
+
+sentence :58
+Token:.
+Predict_Tag:X
+
+sentence :58
+Token:N
+Predict_Tag:X
+
+sentence :58
+Token:.
+Predict_Tag:X
+
+sentence :58
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :59
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :59
+Token:et
+Predict_Tag:O
+
+sentence :59
+Token:##t
+Predict_Tag:X
+
+sentence :59
+Token:##gall
+Predict_Tag:X
+
+sentence :59
+Token:##ery
+Predict_Tag:X
+
+sentence :59
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :60
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :60
+Token:So
+Predict_Tag:O
+
+sentence :60
+Token:##uve
+Predict_Tag:X
+
+sentence :60
+Token:##nir
+Predict_Tag:X
+
+sentence :60
+Token:##s
+Predict_Tag:X
+
+sentence :60
+Token:,
+Predict_Tag:O
+
+sentence :60
+Token:P
+Predict_Tag:B-org
+
+sentence :60
+Token:##lim
+Predict_Tag:X
+
+sentence :60
+Token:##sol
+Predict_Tag:X
+
+sentence :60
+Token:Gallery
+Predict_Tag:I-org
+
+sentence :60
+Token:,
+Predict_Tag:O
+
+sentence :60
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :60
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :61
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :61
+Token:o
+Predict_Tag:O
+
+sentence :61
+Token:##bar
+Predict_Tag:X
+
+sentence :61
+Token:##t
+Predict_Tag:X
+
+sentence :61
+Token:+
+Predict_Tag:X
+
+sentence :61
+Token:Music
+Predict_Tag:I-org
+
+sentence :61
+Token:=
+Predict_Tag:I-org
+
+sentence :61
+Token:Yeah
+Predict_Tag:O
+
+sentence :61
+Token:Various
+Predict_Tag:O
+
+sentence :61
+Token:venues
+Predict_Tag:O
+
+sentence :61
+Token:,
+Predict_Tag:O
+
+sentence :61
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :61
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :62
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :62
+Token:Home
+Predict_Tag:B-org
+
+sentence :62
+Token:In
+Predict_Tag:O
+
+sentence :62
+Token:##vade
+Predict_Tag:X
+
+sentence :62
+Token:##r
+Predict_Tag:X
+
+sentence :62
+Token:,
+Predict_Tag:O
+
+sentence :62
+Token:Rat
+Predict_Tag:I-org
+
+sentence :62
+Token:Palace
+Predict_Tag:I-org
+
+sentence :62
+Token:,
+Predict_Tag:O
+
+sentence :62
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :62
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :63
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :63
+Token:2009
+Predict_Tag:B-tim
+
+sentence :63
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :64
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :64
+Token:One
+Predict_Tag:B-tim
+
+sentence :64
+Token:Night
+Predict_Tag:O
+
+sentence :64
+Token:only
+Predict_Tag:O
+
+sentence :64
+Token:Project
+Predict_Tag:B-org
+
+sentence :64
+Token:,
+Predict_Tag:O
+
+sentence :64
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :64
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :65
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :65
+Token:It
+Predict_Tag:O
+
+sentence :65
+Token:'
+Predict_Tag:O
+
+sentence :65
+Token:s
+Predict_Tag:X
+
+sentence :65
+Token:All
+Predict_Tag:I-art
+
+sentence :65
+Token:Bulls
+Predict_Tag:I-org
+
+sentence :65
+Token:##hit
+Predict_Tag:X
+
+sentence :65
+Token:and
+Predict_Tag:O
+
+sentence :65
+Token:It
+Predict_Tag:O
+
+sentence :65
+Token:'
+Predict_Tag:O
+
+sentence :65
+Token:s
+Predict_Tag:X
+
+sentence :65
+Token:Bad
+Predict_Tag:I-org
+
+sentence :65
+Token:For
+Predict_Tag:O
+
+sentence :65
+Token:You
+Predict_Tag:O
+
+sentence :65
+Token:,
+Predict_Tag:O
+
+sentence :65
+Token:collaboration
+Predict_Tag:O
+
+sentence :65
+Token:with
+Predict_Tag:O
+
+sentence :65
+Token:Callum
+Predict_Tag:B-per
+
+sentence :65
+Token:Don
+Predict_Tag:I-per
+
+sentence :65
+Token:##og
+Predict_Tag:X
+
+sentence :65
+Token:##hu
+Predict_Tag:X
+
+sentence :65
+Token:##e
+Predict_Tag:X
+
+sentence :65
+Token:,
+Predict_Tag:O
+
+sentence :65
+Token:in
+Predict_Tag:O
+
+sentence :65
+Token:##f
+Predict_Tag:X
+
+sentence :65
+Token:##light
+Predict_Tag:X
+
+sentence :65
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :66
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :66
+Token:A
+Predict_Tag:O
+
+sentence :66
+Token:.
+Predict_Tag:X
+
+sentence :66
+Token:R
+Predict_Tag:X
+
+sentence :66
+Token:.
+Predict_Tag:X
+
+sentence :66
+Token:I
+Predict_Tag:X
+
+sentence :66
+Token:,
+Predict_Tag:O
+
+sentence :66
+Token:Ta
+Predict_Tag:B-geo
+
+sentence :66
+Token:##s
+Predict_Tag:X
+
+sentence :66
+Token:and
+Predict_Tag:O
+
+sentence :66
+Token:kings
+Predict_Tag:O
+
+sentence :66
+Token:A
+Predict_Tag:O
+
+sentence :66
+Token:.
+Predict_Tag:X
+
+sentence :66
+Token:R
+Predict_Tag:X
+
+sentence :66
+Token:.
+Predict_Tag:X
+
+sentence :66
+Token:I
+Predict_Tag:X
+
+sentence :66
+Token:,
+Predict_Tag:O
+
+sentence :66
+Token:Vic
+Predict_Tag:B-geo
+
+sentence :66
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :67
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :67
+Token:Lim
+Predict_Tag:B-geo
+
+sentence :67
+Token:##bus
+Predict_Tag:X
+
+sentence :67
+Token:,
+Predict_Tag:O
+
+sentence :67
+Token:M
+Predict_Tag:B-org
+
+sentence :67
+Token:##OP
+Predict_Tag:X
+
+sentence :67
+Token:Projects
+Predict_Tag:I-org
+
+sentence :67
+Token:,
+Predict_Tag:O
+
+sentence :67
+Token:Sydney
+Predict_Tag:B-geo
+
+sentence :67
+Token:,
+Predict_Tag:O
+
+sentence :67
+Token:N
+Predict_Tag:B-org
+
+sentence :67
+Token:NSW
+Predict_Tag:I-org
+
+sentence :67
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :68
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :68
+Token:OK
+Predict_Tag:B-org
+
+sentence :68
+Token:S
+Predict_Tag:O
+
+sentence :68
+Token:##lut
+Predict_Tag:X
+
+sentence :68
+Token:##s
+Predict_Tag:X
+
+sentence :68
+Token:@
+Predict_Tag:O
+
+sentence :68
+Token:Taste
+Predict_Tag:X
+
+sentence :68
+Token:installed
+Predict_Tag:O
+
+sentence :68
+Token:,
+Predict_Tag:O
+
+sentence :68
+Token:Taste
+Predict_Tag:B-org
+
+sentence :68
+Token:of
+Predict_Tag:I-org
+
+sentence :68
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :68
+Token:Festival
+Predict_Tag:I-org
+
+sentence :68
+Token:,
+Predict_Tag:O
+
+sentence :68
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :68
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :69
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :69
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :69
+Token:Fringe
+Predict_Tag:I-org
+
+sentence :69
+Token:Festival
+Predict_Tag:I-org
+
+sentence :69
+Token:Fashion
+Predict_Tag:I-org
+
+sentence :69
+Token:Show
+Predict_Tag:O
+
+sentence :69
+Token:,
+Predict_Tag:O
+
+sentence :69
+Token:collaboration
+Predict_Tag:O
+
+sentence :69
+Token:with
+Predict_Tag:O
+
+sentence :69
+Token:Ali
+Predict_Tag:B-per
+
+sentence :69
+Token:P
+Predict_Tag:I-per
+
+sentence :69
+Token:##yke
+Predict_Tag:X
+
+sentence :69
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :70
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :70
+Token:2008
+Predict_Tag:B-tim
+
+sentence :70
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :71
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :71
+Token:The
+Predict_Tag:O
+
+sentence :71
+Token:Un
+Predict_Tag:O
+
+sentence :71
+Token:##sus
+Predict_Tag:X
+
+sentence :71
+Token:##tain
+Predict_Tag:X
+
+sentence :71
+Token:##able
+Predict_Tag:X
+
+sentence :71
+Token:Weight
+Predict_Tag:O
+
+sentence :71
+Token:of
+Predict_Tag:O
+
+sentence :71
+Token:Place
+Predict_Tag:O
+
+sentence :71
+Token:,
+Predict_Tag:O
+
+sentence :71
+Token:Watch
+Predict_Tag:B-org
+
+sentence :71
+Token:This
+Predict_Tag:I-org
+
+sentence :71
+Token:Space
+Predict_Tag:I-org
+
+sentence :71
+Token:,
+Predict_Tag:O
+
+sentence :71
+Token:Alice
+Predict_Tag:B-geo
+
+sentence :71
+Token:Springs
+Predict_Tag:I-geo
+
+sentence :71
+Token:N
+Predict_Tag:I-geo
+
+sentence :71
+Token:##T
+Predict_Tag:X
+
+sentence :71
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :72
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :72
+Token:5
+Predict_Tag:B-tim
+
+sentence :72
+Token:Years
+Predict_Tag:O
+
+sentence :72
+Token:,
+Predict_Tag:O
+
+sentence :72
+Token:In
+Predict_Tag:B-org
+
+sentence :72
+Token:##F
+Predict_Tag:X
+
+sentence :72
+Token:##light
+Predict_Tag:X
+
+sentence :72
+Token:A
+Predict_Tag:I-org
+
+sentence :72
+Token:.
+Predict_Tag:X
+
+sentence :72
+Token:R
+Predict_Tag:X
+
+sentence :72
+Token:.
+Predict_Tag:X
+
+sentence :72
+Token:I
+Predict_Tag:X
+
+sentence :72
+Token:Hobart
+Predict_Tag:O
+
+sentence :72
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :73
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :73
+Token:T
+Predict_Tag:O
+
+sentence :73
+Token:##hr
+Predict_Tag:X
+
+sentence :73
+Token:##owing
+Predict_Tag:X
+
+sentence :73
+Token:Stones
+Predict_Tag:I-art
+
+sentence :73
+Token:,
+Predict_Tag:O
+
+sentence :73
+Token:collaborative
+Predict_Tag:O
+
+sentence :73
+Token:with
+Predict_Tag:O
+
+sentence :73
+Token:Tim
+Predict_Tag:B-per
+
+sentence :73
+Token:Clarke
+Predict_Tag:I-per
+
+sentence :73
+Token:and
+Predict_Tag:O
+
+sentence :73
+Token:Simon
+Predict_Tag:B-per
+
+sentence :73
+Token:G
+Predict_Tag:I-per
+
+sentence :73
+Token:##ard
+Predict_Tag:X
+
+sentence :73
+Token:##am
+Predict_Tag:X
+
+sentence :73
+Token:,
+Predict_Tag:O
+
+sentence :73
+Token:AA
+Predict_Tag:B-geo
+
+sentence :73
+Token:.
+Predict_Tag:X
+
+sentence :73
+Token:R
+Predict_Tag:X
+
+sentence :73
+Token:.
+Predict_Tag:X
+
+sentence :73
+Token:I
+Predict_Tag:X
+
+sentence :73
+Token:,
+Predict_Tag:O
+
+sentence :73
+Token:Hobart
+Predict_Tag:B-org
+
+sentence :73
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :74
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :74
+Token:Awards
+Predict_Tag:O
+
+sentence :74
+Token:and
+Predict_Tag:O
+
+sentence :74
+Token:Grant
+Predict_Tag:B-art
+
+sentence :74
+Token:##s
+Predict_Tag:X
+
+sentence :74
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :75
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :75
+Token:2011
+Predict_Tag:B-tim
+
+sentence :75
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :76
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :76
+Token:Winner
+Predict_Tag:O
+
+sentence :76
+Token:,
+Predict_Tag:O
+
+sentence :76
+Token:RA
+Predict_Tag:B-org
+
+sentence :76
+Token:##CT
+Predict_Tag:X
+
+sentence :76
+Token:Tasmanian
+Predict_Tag:I-org
+
+sentence :76
+Token:Youth
+Predict_Tag:I-org
+
+sentence :76
+Token:Portrait
+Predict_Tag:I-org
+
+sentence :76
+Token:##ure
+Predict_Tag:X
+
+sentence :76
+Token:Prize
+Predict_Tag:I-org
+
+sentence :76
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :77
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :77
+Token:Artist
+Predict_Tag:O
+
+sentence :77
+Token:in
+Predict_Tag:O
+
+sentence :77
+Token:residence
+Predict_Tag:O
+
+sentence :77
+Token:He
+Predict_Tag:B-org
+
+sentence :77
+Token:-
+Predict_Tag:X
+
+sentence :77
+Token:Shu
+Predict_Tag:X
+
+sentence :77
+Token:##n
+Predict_Tag:X
+
+sentence :77
+Token:International
+Predict_Tag:I-org
+
+sentence :77
+Token:Arts
+Predict_Tag:I-org
+
+sentence :77
+Token:Festival
+Predict_Tag:I-org
+
+sentence :77
+Token:,
+Predict_Tag:O
+
+sentence :77
+Token:Xu
+Predict_Tag:B-org
+
+sentence :77
+Token:Village
+Predict_Tag:I-geo
+
+sentence :77
+Token:,
+Predict_Tag:O
+
+sentence :77
+Token:Shan
+Predict_Tag:B-geo
+
+sentence :77
+Token:##xi
+Predict_Tag:X
+
+sentence :77
+Token:,
+Predict_Tag:O
+
+sentence :77
+Token:China
+Predict_Tag:B-geo
+
+sentence :77
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :78
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :78
+Token:2010
+Predict_Tag:B-tim
+
+sentence :78
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :79
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :79
+Token:Artist
+Predict_Tag:O
+
+sentence :79
+Token:in
+Predict_Tag:O
+
+sentence :79
+Token:residence
+Predict_Tag:O
+
+sentence :79
+Token:,
+Predict_Tag:O
+
+sentence :79
+Token:C
+Predict_Tag:B-org
+
+sentence :79
+Token:##ite
+Predict_Tag:X
+
+sentence :79
+Token:Inter
+Predict_Tag:B-geo
+
+sentence :79
+Token:##nation
+Predict_Tag:X
+
+sentence :79
+Token:##a
+Predict_Tag:X
+
+sentence :79
+Token:des
+Predict_Tag:I-geo
+
+sentence :79
+Token:Arts
+Predict_Tag:I-geo
+
+sentence :79
+Token:,
+Predict_Tag:O
+
+sentence :79
+Token:Paris
+Predict_Tag:B-geo
+
+sentence :79
+Token:,
+Predict_Tag:O
+
+sentence :79
+Token:France
+Predict_Tag:B-geo
+
+sentence :79
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :80
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :80
+Token:2007
+Predict_Tag:B-tim
+
+sentence :80
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :81
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :81
+Token:Moor
+Predict_Tag:B-org
+
+sentence :81
+Token:##illa
+Predict_Tag:X
+
+sentence :81
+Token:Scholarship
+Predict_Tag:I-org
+
+sentence :81
+Token:recipient
+Predict_Tag:O
+
+sentence :81
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :82
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :82
+Token:Jim
+Predict_Tag:B-per
+
+sentence :82
+Token:Bacon
+Predict_Tag:I-per
+
+sentence :82
+Token:Foundation
+Predict_Tag:I-per
+
+sentence :82
+Token:Scholarship
+Predict_Tag:I-org
+
+sentence :82
+Token:for
+Predict_Tag:O
+
+sentence :82
+Token:Fine
+Predict_Tag:B-org
+
+sentence :82
+Token:Arts
+Predict_Tag:I-org
+
+sentence :82
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :83
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :83
+Token:2006
+Predict_Tag:B-tim
+
+sentence :83
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :84
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :84
+Token:Dean
+Predict_Tag:O
+
+sentence :84
+Token:##s
+Predict_Tag:X
+
+sentence :84
+Token:Honour
+Predict_Tag:B-org
+
+sentence :84
+Token:Roll
+Predict_Tag:I-org
+
+sentence :84
+Token:of
+Predict_Tag:I-org
+
+sentence :84
+Token:Excellence
+Predict_Tag:I-org
+
+sentence :84
+Token:,
+Predict_Tag:O
+
+sentence :84
+Token:University
+Predict_Tag:B-org
+
+sentence :84
+Token:of
+Predict_Tag:I-org
+
+sentence :84
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :84
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :85
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :85
+Token:Collections
+Predict_Tag:O
+
+sentence :85
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :86
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :86
+Token:He
+Predict_Tag:O
+
+sentence :86
+Token:Shu
+Predict_Tag:B-org
+
+sentence :86
+Token:##n
+Predict_Tag:X
+
+sentence :86
+Token:International
+Predict_Tag:I-geo
+
+sentence :86
+Token:Arts
+Predict_Tag:I-org
+
+sentence :86
+Token:Village
+Predict_Tag:I-org
+
+sentence :86
+Token:,
+Predict_Tag:O
+
+sentence :86
+Token:China
+Predict_Tag:B-geo
+
+sentence :86
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :87
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :87
+Token:RA
+Predict_Tag:B-org
+
+sentence :87
+Token:##CT
+Predict_Tag:X
+
+sentence :87
+Token:Tasmania
+Predict_Tag:I-org
+
+sentence :87
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :88
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :88
+Token:M
+Predict_Tag:B-art
+
+sentence :88
+Token:##ON
+Predict_Tag:X
+
+sentence :88
+Token:##A
+Predict_Tag:X
+
+sentence :88
+Token:(
+Predict_Tag:O
+
+sentence :88
+Token:Museum
+Predict_Tag:B-org
+
+sentence :88
+Token:of
+Predict_Tag:I-org
+
+sentence :88
+Token:Old
+Predict_Tag:I-org
+
+sentence :88
+Token:and
+Predict_Tag:I-org
+
+sentence :88
+Token:New
+Predict_Tag:I-org
+
+sentence :88
+Token:Art
+Predict_Tag:O
+
+sentence :88
+Token:)
+Predict_Tag:O
+
+sentence :88
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :89
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :89
+Token:Tasmanian
+Predict_Tag:B-org
+
+sentence :89
+Token:University
+Predict_Tag:B-org
+
+sentence :89
+Token:Union
+Predict_Tag:I-org
+
+sentence :89
+Token:[SEP]
+Predict_Tag:[SEP]
+
+sentence :90
+Token:[CLS]
+Predict_Tag:[CLS]
+
+sentence :90
+Token:Private
+Predict_Tag:O
+
+sentence :90
+Token:collections
+Predict_Tag:O
+
+sentence :90
+Token:national
+Predict_Tag:O
+
+sentence :90
+Token:and
+Predict_Tag:O
+
+sentence :90
+Token:international
+Predict_Tag:O
+
+sentence :90
+Token:[SEP]
+Predict_Tag:[SEP]
+
